@@ -1,1 +1,1 @@
-# Jekyll-and-Hide
+# Jekyll-and-Hide Training
